@@ -1,3 +1,8 @@
+# 效果展示
+
+![image](https://github.com/yeszj/RefreshDemo/blob/master/refresh.gif)
+
+
 # RefreshDemo
 刷新框架的二次封装使用
 
