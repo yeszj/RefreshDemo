@@ -1,0 +1,2 @@
+include ':app', ':module_refresh'
+rootProject.name='RefreshDemo'
